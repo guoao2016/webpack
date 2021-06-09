@@ -1,0 +1,9 @@
+@import './other.css';
+
+body {
+    background-color: rebeccapurple;
+}
+
+.pic{
+    width: 100px;
+}
